@@ -1,2 +1,2 @@
-export const ACCESS_TOKEN = "access"
-export const REFERESH_TOKEN = "referesh"
+export const ACCESS_TOKEN = "access";
+export const REFRESH_TOKEN = "referesh"
